@@ -116,3 +116,7 @@ nav .menu{
   background: white;
   color: black;
 }
+.btns button a{
+  text-decoration: none;
+  color: black;
+}
